@@ -16,7 +16,7 @@ Detailed information about my poster for Japan-Taiwan Plant Biology 2026 (Tokyo)
 - Inoculation with order-specific commensal bacteria in Arabidopsis induces an order-specific transcriptional signature.
 - Transcriptome analysis highlights differential regulation of PRRs, supporting the idea that PRRs may contribute to perceiving order-specific microbial patterns.
 
-### Section 2: 2. Peptide landscape detected from Pseudomonadales order-specific SynCom
+### Section 2: Peptide landscape detected from Pseudomonadales order-specific SynCom
 
 - As a proof-of-concept, the analysis focuses on order Pseudomonadales (SynCom4; 4 strains), selected because it triggers many plant PRRs.
 - Proteomics and peptidomics identify >300 naturally occurring peptide fragments derived from diverse precursor proteins. 
@@ -34,7 +34,7 @@ Detailed information about my poster for Japan-Taiwan Plant Biology 2026 (Tokyo)
 - With a stringent iPTM > 0.8 threshold, the workflow yields 151 high-confidence PRR–peptide pairs, originating from 67 precursor proteins (36/67 precursors contain signal peptides).
 - High-confidence candidates span multiple PRR families (LecRK, MALK, LRR-RLK, LRR-RLP, LYM), suggesting broad potential for PRR engagement by microbiota-derived peptides.
 
-### Section 5: High‑iPTM PRR–peptide pairs map to BAK1 co‑receptor architecture
+### Section 5: High‑iPTM PRR–peptide pair map to BAK1 co‑receptor architecture
 
 - High-confidence PRR–peptide candidates are mapped onto known cell-surface co-receptor modules, including BAK1 and SOBIR1, linking predicted binding events to established immune signaling architectures. 
 - A known reference complex (FLS2 ectodomain + flg22 + BAK1 ectodomain) is shown as a benchmark for PRR–ligand complex modeling, providing a familiar point of comparison for predicted interaction confidence.
@@ -51,7 +51,7 @@ Bioluminescence reporter assays show immune outputs after treatment with:
 
 Multiple immune reporters (e.g., WRKY and other defense-associated promoters) display distinct temporal response patterns, consistent with SynCom-derived material containing immune-active cues.
 
-### Section 7-8:
+### Section 7: Summary and future work
 
 - The framework links multi-omics discovery to structure-guided prioritization of candidate PRR–peptide interactions from microbiota.
 - Future work focuses on validation, including combinatorial gRNA editing of PRRs in reporter backgrounds and testing prioritized microbiota peptides. 
@@ -59,8 +59,8 @@ Multiple immune reporters (e.g., WRKY and other defense-associated promoters) di
 ---
 
 
-![Preview](docs/JTPB_2026_Poster_1st_draft_v2.jpg)
+![Preview](docs/JTPB_2026_Poster_1st_draft_v3.jpg)
 
-[Download / Open full PDF](docs/TJTPB_2026_Poster_1st_draft_v2.pdf)
+[Download / Open full PDF](docs/TJTPB_2026_Poster_1st_draft_v3.pdf)
 
 
