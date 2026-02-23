@@ -37,8 +37,9 @@ Detailed information about my poster for Japan-Taiwan Plant Biology 2026 (Tokyo)
 ### Section 5: High‑iPTM PRR–peptide pair map to BAK1 co‑receptor architecture
 
 - High-confidence PRR–peptide candidates are mapped onto known cell-surface co-receptor modules, including BAK1 and SOBIR1, linking predicted binding events to established immune signaling architectures. 
-- A known reference complex (FLS2 ectodomain + flg22 + BAK1 ectodomain) is shown as a benchmark for PRR–ligand complex modeling, providing a familiar point of comparison for predicted interaction confidence.
-- We identified one candidate involving an LRR-RLK (7110) and a peptide derived from type VI secretion system tube protein Hcp, with a modeled association to BAK1 ectodomain at high confidence.
+- The FLS2–flg22–BAK1 ectodomain complex is shown as a structural benchmark, in which flg22 binding promotes BAK1 recruitment to the receptor complex.
+- One candidate involves an LRR-RLK (7110) and a peptide derived from the type VI secretion system tube protein Hcp, modeled in association with the BAK1 ectodomain at high confidence.
+- Importantly, BAK1 residues Thr52 and Val54 are positioned at the predicted interface and engage the Hcp-derived peptide in a manner analogous to their role in stabilizing the flg22-induced FLS2–BAK1 complex, suggesting a similar co-receptor recruitment mechanism.
 
 ### Section 6:  SynCom4 heat-killed cells (HK) and cell-free supernatant (CFS) elicit distinct immune outputs across bioluminescent reporter lines
 
