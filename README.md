@@ -59,6 +59,12 @@ Multiple immune reporters (e.g., WRKY and other defense-associated promoters) di
 - The framework links multi-omics discovery to structure-guided prioritization of candidate PRR–peptide interactions from microbiota.
 - Future work focuses on validation, including combinatorial gRNA editing of PRRs in reporter backgrounds and testing prioritized microbiota peptides. 
 
+### References
+
+- Kato, H., Onai, K., Abe, A., Shimizu, M., Takagi, H., Tateda, C., Utsushi, H., Singkarabanit-Ogawa, S., Kitakura, S., Ono, E., Zipfel, C., Takano, Y., Ishiura, M., & Terauchi, R. (2020). Lumi-Map, a Real-Time Luciferase Bioluminescence Screen of Mutants Combined with MutMap, Reveals Arabidopsis Genes Involved in PAMP-Triggered Immunity. Molecular Plant-Microbe Interactions®, 33(12), 1366–1380. https://doi.org/10.1094/MPMI-05-20-0118-TA
+
+
+
 ---
 
 
