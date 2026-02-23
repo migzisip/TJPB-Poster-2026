@@ -40,7 +40,9 @@ Detailed information about my poster for Japan-Taiwan Plant Biology 2026 (Tokyo)
 - A known reference complex (FLS2 ectodomain + flg22 + BAK1 ectodomain) is shown as a benchmark for PRR–ligand complex modeling, providing a familiar point of comparison for predicted interaction confidence.
 - We identified one candidate involving an LRR-RLK (7110) and a peptide derived from type VI secretion system tube protein Hcp, with a modeled association to BAK1 ectodomain at high confidence.
 
-### Section 6: Immune output assays connect predictions to biological responses
+### Section 6:  SynCom4 heat-killed cells (HK) and cell-free supernatant (CFS) elicit distinct immune outputs across bioluminescent reporter lines
+
+To assess whether SynCom4-derived material activates plant immune signaling, immune outputs were monitored using LUMI-map reporter lines, which express the luciferase (LUC) gene fused to promoters of defense-related genes. These promoters are associated with downstream immune signaling and pattern-triggered immunity (PTI), enabling real-time quantification of transcriptional activation.
 
 Bioluminescence reporter assays show immune outputs after treatment with:
 
