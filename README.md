@@ -1,7 +1,7 @@
 # TJPB-Poster-2026
 Detailed information about my poster for Japan-Taiwan Plant Biology 2026 (Tokyo)
 
-# Poster no. __: AI-based large-scale structural modeling integrated with multi-omics reveals candidate plant receptor–peptide interactions from *Pseudomonadales* microbiota
+# Poster no. 1P247: AI-based large-scale structural modeling integrated with multi-omics reveals candidate plant receptor–peptide interactions from *Pseudomonadales* microbiota
 
 ## Poster walkthrough
 
