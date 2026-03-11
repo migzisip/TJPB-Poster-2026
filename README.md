@@ -68,8 +68,8 @@ Multiple immune reporters (e.g., WRKY and other defense-associated promoters) di
 ---
 
 
-![Preview](docs/JTPB_2026_Poster_1st_draft_v3.jpg)
+![Preview](docs/JTPB_2026_Poster_2nd_draft_ver2_03102026_Proofread_Print.jpg)
 
-[Download / Open full PDF](docs/TJTPB_2026_Poster_1st_draft_v3.pdf)
+[Download / Open full PDF](docs/JTPB_2026_Poster_2nd_draft_ver2_03102026_Print_ver3.pdf)
 
 
